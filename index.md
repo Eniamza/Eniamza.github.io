@@ -3,9 +3,9 @@
 ---
 ## Eniamza's Blog
 
-#### The almost official
+## The almost official
 
-> There is always an workaround
+> There is always a workaround
 
 ### Support or Contact
 
