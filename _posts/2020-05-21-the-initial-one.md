@@ -8,7 +8,7 @@ description: |-
 ---
 This is the first post ever published in here.
 
-The journey started towards an unknown blackhole. No one knows what will happen .Assumptions are forbidden. All prediction falls .But it will go on.
+<p>The journey started towards an unknown blackhole. No one knows what will happen .Assumptions are forbidden. All prediction falls .But it will go on.</p>
 
 
 Towards the darkness. Slowly.
