@@ -18,3 +18,5 @@ fields:
     schema:
       format: markdown
   label: description
+pages:
+- _posts/the-initial-one.md
