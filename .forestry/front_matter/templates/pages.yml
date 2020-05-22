@@ -9,15 +9,18 @@ fields:
     min: 5
   label: Title
   default: title
-- name: description
-  type: textarea
-  default: ''
+- name: layout
+  type: text
   config:
-    required: false
-    wysiwyg: true
-    schema:
-      format: markdown
-  label: description
+    required: true
+  label: layout
+  default: layout
+- name: permalink
+  type: text
+  config:
+    required: true
+  label: permalink
+  default: permalink
 pages:
 - _posts/2020-05-21-the-initial-one.md
 - about.md
