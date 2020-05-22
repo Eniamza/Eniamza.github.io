@@ -15,4 +15,5 @@ This blog was launched to solve problems.Precisely to _find_ and solve.
 <p> This page is also an nonsense just like the rest of the world 
 <p> 
   ---
-  Because it still spins ---
+  Because it still spins 
+  ---
