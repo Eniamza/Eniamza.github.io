@@ -21,6 +21,7 @@ This problem generally occurs for fast boot feature in windows. To disable fast 
 <br>
 And to disable hibernation in windows Sail [Here](https://www.howtogeek.com/howto/15140/what-is-hiberfil.sys-and-how-do-i-delete-it/). 
 <br>
+
 ------------------------------
 <br>
 If you see any mistakes. Then DM me on discord - @t4shf33n#5876
