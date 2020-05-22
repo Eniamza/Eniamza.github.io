@@ -2,7 +2,6 @@
 title: Support
 layout: page
 permalink: "/support/"
-published: false
 
 ---
 ## Support
