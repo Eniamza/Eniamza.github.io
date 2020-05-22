@@ -7,7 +7,9 @@ description: |-
 layout: ''
 
 ---
-This is the first post ever published in here.<br> 
+This is the first post ever published in here.
+
+<br> 
 
 The journey started towards an unknown blackhole. No one knows what will happen .Assumptions are forbidden. All prediction falls .But it will go on. <br>
 
