@@ -12,13 +12,13 @@ fields:
 - name: layout
   type: text
   config:
-    required: true
+    required: false
   label: layout
   default: layout
 - name: permalink
   type: text
   config:
-    required: true
+    required: false
   label: permalink
   default: permalink
 pages:
