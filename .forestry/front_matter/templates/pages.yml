@@ -23,5 +23,6 @@ fields:
   default: permalink
 pages:
 - _posts/2020-05-21-the-initial-one.md
+- _posts/fixing-writing-permission-in-ntfs-formatted-drive.md
 - about.md
 - support.md
