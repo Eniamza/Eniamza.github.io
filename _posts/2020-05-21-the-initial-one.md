@@ -21,12 +21,12 @@ There will always be someone. Somewhere . Under the darkest shadow. There will b
 
 
 No one expects the dark. But it is there. Pulling all the lights in it. <br>
-
-
-    Darkness is the symbol of power.
+-------
+     Darkness is the symbol of power.
      Because it hardens it's existence
-     by devouring light />
-<br>
+     by devouring light 
+--------
+<br> 
 
 A necessary evil. The balance of nature. Perhaps for the dirty games.
 <br>
