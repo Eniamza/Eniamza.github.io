@@ -13,7 +13,7 @@ So let's start the squashing. <br>
 ### The Solution
 --------------------
 <br>
-Luckily there is a fix for this stinky problem.To do that simply open a terminal by pressing `ctrl+alt+t `. Then Run this command `sudo ntfsfix /dev/sda1` . Remember to replace **sda1** with your drive id. <br>
+Luckily there is a fix for this stinky problem.To do that simply open a terminal by pressing -`ctrl+alt+t `. Then Run this command -` `sudo ntfsfix /dev/sda1` . Remember to replace **sda1** with your drive id. <br>
 ### The other solution
 --------------------------
 <br>
