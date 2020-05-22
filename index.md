@@ -1,5 +1,7 @@
 ---
-
+title: Home
+layout: home
+permalink: /home/
 ---
 ## Eniamza's Blog
 
