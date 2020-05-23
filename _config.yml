@@ -1,3 +1,8 @@
+header_pages:
+  - index.md
+  - support.md
+  - about.md
+
 # Build settings
 markdown: commonmark
 remote_theme: b2a3e8/jekyll-theme-console
