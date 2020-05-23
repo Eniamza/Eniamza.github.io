@@ -2,6 +2,8 @@ header_pages:
   - index.md
   - support.md
   - about.md
+  
+footer: 'Knock me on <a href="https://facebook.com/rayaneni0">Facebook</a>'
 
 # Build settings
 markdown: commonmark
