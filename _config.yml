@@ -1,16 +1,3 @@
-title: 'Eni's Blog'
-description: "Almost official blog to solve problems efficiently."
-url: "https://eniamza.github.io"
-
-header_pages:
-  - index.md
-  - about.md
-  - support.md
-
-style: dark
-
-footer: 'knock me on <a href="https://facebook.com/rayaneni0">FaceBook</a>'
-
 # Build settings
 markdown: commonmark
 remote_theme: b2a3e8/jekyll-theme-console
