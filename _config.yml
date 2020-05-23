@@ -12,5 +12,5 @@ style: dark
 footer: 'knock me on <a href="https://facebook.com/rayaneni0">FaceBook</a>'
 
 # Build settings
-markdown: commonmaek
+markdown: commonmark
 remote_theme: b2a3e8/jekyll-theme-console
