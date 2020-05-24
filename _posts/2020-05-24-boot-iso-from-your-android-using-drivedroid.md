@@ -1,5 +1,5 @@
 ---
-title: Boot ISO from your android using DriveDroid
+title: Boot ISO from your Android
 layout: page
 
 ---
