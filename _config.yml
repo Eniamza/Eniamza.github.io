@@ -6,5 +6,6 @@ header_pages:
 footer: 'Knock me on <a href="https://facebook.com/rayaneni0">Facebook</a>'
 
 # Build settings
-markdown: commonmark
+markdown: kramdown
 remote_theme: b2a3e8/jekyll-theme-console
+google_analytics: UA-167512615-1
