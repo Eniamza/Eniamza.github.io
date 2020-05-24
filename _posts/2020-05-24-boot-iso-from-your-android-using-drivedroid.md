@@ -1,6 +1,6 @@
 ---
-title: Boot ISO from your Android
-layout: page
+title: Turn android into a Bootable media
+layout: post
 
 ---
 ## Boot ISO from your android using DriveDroid
