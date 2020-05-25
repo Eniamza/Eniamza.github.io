@@ -25,7 +25,6 @@ pages:
 - _posts/2020-05-21-the-initial-one.md
 - _posts/2020-05-22-fixing-writing-permission-in-ntfs-formatted-drive.md
 - _posts/2020-05-23-deploy-your-jekyll-blog-without-console-and-gem-using-github.md
-- _posts/2020-05-24-boot-iso-from-your-android-using-drivedroid.md
 - _posts/2020-05-24-integrating-forestry-with-freshly-deployed-jekyll-blog.md
 - about.md
 - support.md
