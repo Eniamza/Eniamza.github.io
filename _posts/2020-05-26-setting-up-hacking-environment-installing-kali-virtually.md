@@ -1,5 +1,5 @@
 ---
-title: Setting Up Hacking Environment [Installing Kali Virtually]]
+title: Setting Up Hacking Environment [Installing Kali Virtually]
 layout: post
 
 ---
