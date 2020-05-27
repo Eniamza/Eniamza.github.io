@@ -1,5 +1,5 @@
 ---
-title: Hack into to most WI-FI without victim interactio
+title: Hack into to most WI-FI without victim interaction
 layout: page
 
 ---
