@@ -3,8 +3,6 @@ title: The Hidden Web
 layout: page
 
 ---
-
-
 ## The Hidden Web
 -----
 [[toc]]
@@ -22,16 +20,16 @@ The question is **Do they exist?**
 -------
 ### The Dark Side 
 ----
-- <u>**Zombies**</u> <br>
+- **<u>Zombies</u>** <br>
 NO. There aren’t any zombies. Neither in real world. But yes there are people who are zombie minded. Sounds joke?  <br>
 The darkweb is called dark for this reason. Because there are some people who really likes to do bizzare things. Like killing brutally, selling child porn and gore. Torturing for money etc. Dark? <br>
 
-- <u>**Hackers**</u> <br>
+- **<u>Hackers</u>** <br>
 In 2020 century it’s nearly impossible for someone to hack like the myth. But again they can be harmful. As a proverb goes <br>
 > <u>There’s no patch to humanism</u> <br>
 
 Browse with a leaky system/browser, give email, phone, credit card information, click on malware-injected links **ignoring AV warnings**, it’s enough for even a noob to make your life hell. Dark? 
-- <u>**The Other**</u> <br>
+- **<u>The Other</u>** <br>
 Drugs, guns, child porn, Loli, gore, rape, torture, redrooms, hellrooms, Domination etc etc etc.. are often too much for someone to handle. If you are weak-hearted it's better to stay away from these
 -------
 ### The Brighter Side
@@ -69,7 +67,7 @@ In the end, You need to save your own ass in Darkweb or there is always someone 
 
 ------------
  ### Enticed ?
- ----
+-----------
 If you feel attracted to be on the darkweb, well **Welcome** .
 But remember <br>
 > <u>There is no unmixed Good</u> <br>
@@ -79,7 +77,7 @@ Here you are on your own. Your choices, Your consequences.
 ---
 ### Resources
 ----
-- Browse The dark Web with specialized [Tor Browser](https://www.torproject.org/download/) 
+- Browse The dark Web with specialized [Tor Browser](https://www.torproject.org/download/) <br> 
 - Max your security while browsing over Tor from [MakeUseOf](https://www.makeuseof.com/tag/tor-browser-safety-tips/) 
 ---
 ### Lesson
