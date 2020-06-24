@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: eniamza.github.io
+Token: c867fb8eba821eda304aa4f828f4afe12be1dd7182ffeaefb3ccf8db2d672e2a
