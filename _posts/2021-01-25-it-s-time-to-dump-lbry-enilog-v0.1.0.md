@@ -3,7 +3,7 @@ title: It's time to DUMP LBRY | Enilog | v0.1.0
 layout: post
 
 ---
-![LBC Dump](https://imgur.com/IVBQQOo.png =100x20)
+![LBC Dump](https://imgur.com/IVBQQOo.png =800x160)
 
 \### LBRYMeta Dumping
 
