@@ -3,7 +3,7 @@ title: It's time to DUMP LBRY | Enilog | v0.1.0
 layout: post
 
 ---
-!\[LBC Dump\](![](https://imgur.com/IVBQQOo.png))
+![LBC Dump](https://imgur.com/IVBQQOo.png =100x20)
 
 \### LBRYMeta Dumping
 
@@ -23,19 +23,19 @@ Thanks to @brendon for helping me with query parameters.
 
 \-----------------
 
-It's no fun if you keep the magic to yourself. But If I shared the source code, not all could modify it in JS. So grabbed my makeup box \[*Code editor*\] and started doing my favourite thing. **Grabbing from user input**. 
+It's no fun if you keep the magic to yourself. But If I shared the source code, not all could modify it in JS. So grabbed my makeup box \[_Code editor_\] and started doing my favourite thing. **Grabbing from user input**.
 
 \### Running with Binaries
 
 \-----------------
 
-What's easier than double clicking and getting started? I know I know , *blankets*
+What's easier than double clicking and getting started? I know I know , _blankets_
 
 To run from binaries :
 
 \- Download your suitable one from \[Releases\]([https://github.com/Eniamza/lbrymeta/releases/](https://github.com/Eniamza/lbrymeta/releases/ "https://github.com/Eniamza/lbrymeta/releases/"))
 
-\- Clicking \[*You do know how to click right?*\]
+\- Clicking \[_You do know how to click right?_\]
 
 \- Enter channel claimid which can be found from about section of channels
 
