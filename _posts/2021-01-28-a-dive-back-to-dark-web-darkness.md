@@ -1,22 +1,18 @@
 ---
-title: A Dive Back to Dark Web | Darkness.
+title: A Dive Back to Dark Web | Dar Log
 layout: post
 permalink: permalink
 
 ---
 !\[Darkweb Image\](![](https://imgur.com/FOYOVnh.png))
 
-\**Contents:**
-
-\[\[toc\]\]
-
-\### The Clearnet 
+\### The Clearnet
 
 \---
 
-Every day in our life, we visit tons of websites. Like Facebook , Twitter , Google , \[LBRY\]([https://lbry.tv/](https://lbry.tv/ "https://lbry.tv/")$/invite/@Enilog:f) , Youtube etc. I really mean there are tons of websites we see here and there for every purpose. 
+Every day in our life, we visit tons of websites. Like Facebook , Twitter , Google , \[LBRY\]([https://lbry.tv/](https://lbry.tv/ "https://lbry.tv/")$/invite/@Enilog:f) , Youtube etc. I really mean there are tons of websites we see here and there for every purpose.
 
-But the question is. "Is it all of them?". According to CISO, we only see 4% of the whole internet which is known as Indexed Web. Related to dark matter term in physics. Rest 96% are called Deep Web AKA DarkWeb. According to statistics, there are currently 6 billion websites only on Clearnet. 
+But the question is. "Is it all of them?". According to CISO, we only see 4% of the whole internet which is known as Indexed Web. Related to dark matter term in physics. Rest 96% are called Deep Web AKA DarkWeb. According to statistics, there are currently 6 billion websites only on Clearnet.
 
 And on the darknet? Who knows...
 
@@ -28,7 +24,7 @@ During the internet revolution when the world was getting connected, Sneaky gove
 
 Two research organizations in the US Department of Defense drove efforts to develop an anonymized and encrypted network that would protect the sensitive communications of US spies. Thus the modern dark web started to grow.
 
-\### TOR: The Gate 
+\### TOR: The Gate
 
 \---
 
@@ -68,7 +64,7 @@ There is freedom. Then there are weirdos. While dark web is a great place to res
 
 \- **Red Rooms**: Red Rooms are the most disgusting service available on the dark web. Here human traffickers torture Minors and women as well as murder humans on live camera. Some people pay to see a completely random person getting murdered brutally
 
-\- **Child Pornography**: As if rapes weren't enough. These studios, rapists, molesters shoot clips while torturing/raping or physically abusing children. 
+\- **Child Pornography**: As if rapes weren't enough. These studios, rapists, molesters shoot clips while torturing/raping or physically abusing children.
 
 \- **Drugs and Weapon**: One morning you wake up, open your favorite online marketplace and order a T-shirt. Looks nice. Let's say one morning you wake up, open a marketplace, Order 1 KG of Weed and 2 M16s? Impossible? Well not! All popular marketplaces on the darknet utilize cryptocurrencies as payment methods as a result they can get paid for anything without even revealing themselves. How they ship the items? Well, that's another story.
 
@@ -78,7 +74,7 @@ There is freedom. Then there are weirdos. While dark web is a great place to res
 
 As the proverb goes, "There's no unmixed good on earth". Darkweb is no exception. The question is "How much is the impact?"
 
-No one's going to question you what you do. Most of the time you're untraceable. Also, it's not like you're doing something illegal as soon as you enter or connect to the dark web. Even Facebook is usable through the dark web. 
+No one's going to question you what you do. Most of the time you're untraceable. Also, it's not like you're doing something illegal as soon as you enter or connect to the dark web. Even Facebook is usable through the dark web.
 
 But if your local government and Law Forbids activities such as harmful trading or pornographic / gore content. Then you should stay away. Because if your IP Address of coordinates is leaked by any chance it won't take long to track you down and live a beautiful life in jail!
 
@@ -100,4 +96,4 @@ These are some links and references to give you a heads up!
 
 \- **Uncensored Onion Search Engine on clearnet:** [https://onionlandsearchengine.com/](https://onionlandsearchengine.com/ "https://onionlandsearchengine.com/")
 
-\- **Optimized USB based OS for browsing :* [https://tails.boum.org/](https://tails.boum.org/ "https://tails.boum.org/")*
+\- _Optimized USB based OS for browsing :_ [https://tails.boum.org/](https://tails.boum.org/ "https://tails.boum.org/")
