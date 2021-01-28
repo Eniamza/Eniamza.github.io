@@ -1,5 +1,5 @@
 ---
-title: A Dive Back to Dark Web | Dar Log
+title: A Dive Back to Dark Web | Dark Log
 layout: post
 permalink: permalink
 
