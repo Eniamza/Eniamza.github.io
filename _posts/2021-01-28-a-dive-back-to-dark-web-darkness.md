@@ -4,7 +4,7 @@ layout: post
 permalink: permalink
 
 ---
-!\[Darkweb Image\](![](https://imgur.com/FOYOVnh.png))
+![](https://imgur.com/FOYOVnh.png)
 
 \### The Clearnet
 
